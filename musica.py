@@ -1,6 +1,7 @@
 #tengo que tener la libreria 
 import pygame
 import sys
+import pandas
 
 # Inicializar pygame
 pygame.init()
