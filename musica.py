@@ -6,7 +6,7 @@ import sys
 pygame.init()
 
 # Configuración de la pantalla (no se utilizará, pero es necesaria para inicializar el mixer de pygame)
-pygame.display.set_mode((800, 600))
+pygame.display.set_mode((800, 800))
 
 # Cargar el sonido (puedes reemplazar "ejemplo.wav" con la ruta de tu propio archivo de sonido)
 sonido = pygame.mixer.Sound("ejemplo.wav")
